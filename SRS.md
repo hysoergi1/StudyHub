@@ -79,6 +79,7 @@ Section 2 describes the product in general. Section 3 lists what the system must
 
 ## 2.2 Use Case Diagram
 ![OUCD](./use-case-diagram.svg)
+
 ---
 
 # 3\. Specific Requirements
