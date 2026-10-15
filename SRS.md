@@ -78,7 +78,7 @@ Section 2 describes the product in general. Section 3 lists what the system must
 **Priorities.** The first release has everything marked *High*. Items marked *Medium* or *Low* come later if time allows.
 
 ## 2.2 Use Case Diagram
-![OUCD](./use-case-diagram.svg)
+![OUCD](./use-case-diagram.png)
 
 ---
 
