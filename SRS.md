@@ -1,6 +1,6 @@
 # StudyHub: Software Requirements Specification
 
-**Authors:** Ergens Hyso, Kristine Megrelishvili, Antonio Kanani                      **Date:** 15 Oct 2026
+**Authors:** Ergens Hyso, Kristine Megrelishvili, Antonio Kanani                           **Date:** 15 Oct 2026
 
 ## Contents
 
