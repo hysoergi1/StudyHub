@@ -57,7 +57,7 @@ Section 2 describes the product in general. Section 3 lists what the system must
 ---
 
 # 2\. Overall Description
-
+## 2.1 
 **Product perspective.** StudyHub is a stand-alone web application (browser front end, server back end, database). It does not depend on any university system. It sends emails through an external email service.
 
 **Main functions.** Students can register and log in, add courses and deadlines, create study groups and invite others, assign tasks, see a dashboard of what is due, enter their availability to find meeting times, write shared notes, and get reminders by email.
@@ -77,6 +77,8 @@ Section 2 describes the product in general. Section 3 lists what the system must
 
 **Priorities.** The first release has everything marked *High*. Items marked *Medium* or *Low* come later if time allows.
 
+## 2.2 Use Case Diagram
+![OUCD](./use-case-diagram.svg)
 ---
 
 # 3\. Specific Requirements
