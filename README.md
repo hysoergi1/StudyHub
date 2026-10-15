@@ -4,3 +4,4 @@ Group projects and study sessions can quickly become frustratingly chaotic. Betw
 That is the exact problem we set out to solve. The three of us: Ergens Hyso, Kristine Megrelishvili, and Antonio Kanani. Built StudyHub to fix this friction and make group collaboration effortless.
 
 StudyHub helps students keep track of their courses, deadlines, and group work in one place. It shows who is doing what, what is due next, and when the group can meet, so teams spend less time coordinating and more time learning.
+
