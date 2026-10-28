@@ -206,8 +206,9 @@ GDPR (EU 2016/679), WCAG 2.1 level AA, RFC 5545 (iCalendar), IEEE Std 830-1998 a
 
 ## 4\. Supporting Information
 
-For any further information you can contact the StudyHub. The Team Members are:
+For any further information you can contact the StudyHub. 
+The Team Members are:
 
-* Ergens Hyso  
+* Ergens Hyso
 * Antonio Kanani  
 * Kristine Megrelishvili
